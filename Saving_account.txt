@@ -1,0 +1,14 @@
+Account no 	:		1001
+Holder Name is 	:		asdsd
+Secend Name is 	:		asdasd
+Money Availavle :		5000
+Account Type	:		Saving
+Phone no is	:		545454
+***********************************************
+Account no 	:		1003
+Holder Name is 	:		asdasd
+Secend Name is 	:		asdasd
+Money Availavle :		5000
+Account Type	:		Saving
+Phone no is	:		454545
+***********************************************

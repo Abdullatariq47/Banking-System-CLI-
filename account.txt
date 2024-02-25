@@ -1,0 +1,46 @@
+Account no 	:		1001
+Holder Name is 	:		asdsd
+Secend Name is 	:		asdasd
+Money Availavle :		5000
+Account Type	:		Saving
+Phone no is	:		545454
+***********************************************
+Account no 	:		1002
+Holder Name is 	:		asdasd
+Secend Name is 	:		asasd
+Money Availavle :		5000
+Account Type	:		Current
+Phone no is	:		4545454
+***********************************************
+Account no 	:		1003
+Holder Name is 	:		asdasd
+Secend Name is 	:		asdasd
+Money Availavle :		5000
+Account Type	:		Saving
+Phone no is	:		454545
+***********************************************
+Account no 	:		1004
+Holder Name is 	:		asdasd
+Secend Name is 	:		asdasd
+Money Availavle :		5000
+Account Type	:		Current
+Phone no is	:		545454
+***********************************************
+Account no 	:		1005
+Holder Name is 	:		ali
+Secend Name is 	:		ahmed
+Money Availavle :		5000
+Account Type	:		Current
+Phone no is	:		555555
+***********************************************
+Account no 	:		1006
+Holder Name is 	:		aaaaali
+Second Name is 	:		aaahmed
+Money Availavle :		30000
+Account Type	:		Current
+Phone no is	:		22222222
+***********************************************
+
+
+
+
